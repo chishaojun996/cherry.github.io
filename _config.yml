@@ -4,7 +4,7 @@ SEOTitle: 简单的博客 | Cherry's Blog
 header-img: img/home-bg.jpg
 email: chishaojun@gmail.com
 description: "这里是 @Cherry简单 的个人博客，与你一起发现更大的世界 | 要做一个有有趣的灵魂"
-keyword: "简单, Cherry简单, Cherry,@Cherry, 简单的博客, Cherry's Blogg, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "简单, Cherry简单, Cherry, @Cherry, 简单的博客, Cherry's Blogg, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://cherry.519530.xyz" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
